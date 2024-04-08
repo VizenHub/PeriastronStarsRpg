@@ -5,7 +5,7 @@ task.spawn(function()
 setfpscap(999)
 -- Library
 _G.RayfieldTheme = "Purple"
-local rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/VizenHub/PeriastronStarsRpg/main/Premium'))()
 -- Variables
 local ws = game:GetService("Workspace")
 local pls = game:GetService("Players")
