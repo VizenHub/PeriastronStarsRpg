@@ -16,7 +16,7 @@ task.spawn(function()
 local Window = rayfield:CreateWindow({
    Name = "Vizen Hub [Periastron Stars RPG]",
    LoadingTitle = "Periastron Stars RPG",
-   LoadingSubtitle = "Made by Zxn",
+   LoadingSubtitle = "Made by Vvv",
    ConfigurationSaving = {
       Enabled = true,
       FolderName = nil, -- Create a custom folder for your hub/game
