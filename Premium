@@ -14,9 +14,9 @@ local rs = game:GetService("RunService")
 
 task.spawn(function()
 local Window = rayfield:CreateWindow({
-   Name = "Vizen Hub [Periastron Stars RPG]",
+   Name = "Vizen Hub [Periastron Stars RPG] by Vini",
    LoadingTitle = "Periastron Stars RPG",
-   LoadingSubtitle = "Made by Vvv",
+   LoadingSubtitle = "Made by Vinicius Jr",
    ConfigurationSaving = {
       Enabled = true,
       FolderName = nil, -- Create a custom folder for your hub/game
@@ -31,11 +31,11 @@ local Window = rayfield:CreateWindow({
    KeySettings = {
       Title = "Vizen Hub",
       Subtitle = "Key System",
-      Note = "Join Discord Server For Key",
+      Note = "Nazif is gay no cap",
       FileName = "VizenHub", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
       SaveKey = false, -- The user's key will be saved, but if you change the key, they will be unable to use your script
       GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-      Key = {"https://pastebin.com/raw/WDWSWdxA"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+      Key = {"https://pastebin.com/BGuKeaCk"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
 local Tab = Window:CreateTab("Main", 4483362458) 
